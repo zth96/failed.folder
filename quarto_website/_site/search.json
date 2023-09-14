@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who am I",
+    "section": "",
+    "text": "Sophia is passionate about Data Science"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
